@@ -11,3 +11,5 @@ app.get('/resource', (req, res) => {
 });
 
 app.listen(8090);
+
+export default app;
